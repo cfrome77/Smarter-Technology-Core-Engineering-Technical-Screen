@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build output (if you run tsc)
+dist/
+lib/
+out/
+
+# Tests
+coverage/
+.jest/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Environment variables
+.env
+.env.local

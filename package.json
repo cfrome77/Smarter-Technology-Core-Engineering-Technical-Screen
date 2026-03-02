@@ -1,0 +1,22 @@
+{
+  "name": "smarter-technology-core-engineering-technical-screen",
+  "version": "1.0.0",
+  "description": "Sorting code for the Samrt Technology Core Engineering Technical Screen",
+  "main": "roboticArmStackSort.js",
+  "scripts": {
+    "start": "tsx roboticArmStackSort.ts",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.3.3",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
